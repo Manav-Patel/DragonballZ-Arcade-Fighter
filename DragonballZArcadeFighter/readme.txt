@@ -1,0 +1,1 @@
+Run  Main/MainMenu.java to start the game
